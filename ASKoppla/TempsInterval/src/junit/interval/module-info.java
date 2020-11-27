@@ -1,0 +1,3 @@
+module TempsInterval {
+	requires junit;
+}
